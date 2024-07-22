@@ -50,37 +50,7 @@
     
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/Boda335/discordjs-base-handler">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=discordjs-base-handler&theme=dark&hide_border=true" alt="Discord.JS Handler">
-    </a>
-  </span>
-  <span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Boda335/AI-Summarizer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=AI-Summarizer&theme=dark&hide_border=true" alt="AI-Summarizer">
-    </a>
-  </span>
-  <span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Boda335/real-giveaway">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=real-giveaways&theme=dark&hide_border=true" alt="real giveaways">
-    </a>
-  </span>
-  <span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Boda335/Sanatani-Bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=Sanatani-Bot&theme=dark&hide_border=true" alt="Sanatani Bot">
-    </a>
-  </span>
-  <span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Boda335/Food-For-All">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=Food-For-All&theme=dark&hide_border=true" alt="Food-For-All">
-    </a>
-  </span>
-  <span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Boda335/Password-Manager">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=Password-Manager&theme=dark&hide_border=true" alt="Password-Manager">
-    </a>
-  </span>
-  <span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Boda335">
-      <img src="https://github-readme-stats.vercel.app/api?username=Boda335&show_icons=true&theme=dark&hide_border=true" alt="Boda335's GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=set_activity-status&theme=dark&hide_border=true" alt="Discord.JS Handler">
     </a>
   </span>
 </div>
