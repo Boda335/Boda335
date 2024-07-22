@@ -39,6 +39,8 @@
 #
 
 ### 📘 Top Projects
+
+
 <div align="center">
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/Boda335/JUGNU-Dashboard">
@@ -75,12 +77,8 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=Password-Manager&theme=github_dark&hide_border=true" alt="Password-Manager">
     </a>
   </span>
-  <span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Boda335">
-      <img src="https://github-readme-stats.vercel.app/api?username=Boda335" alt="Boda335's GitHub stats">
-    </a>
-  </span>
 </div>
+
 
 
 
