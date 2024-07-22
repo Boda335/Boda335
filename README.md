@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Boda335"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=000000&labelColor=b1b1b3"/></a>
+<a href="https://github.com/Boda335"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-236ad3?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>
 <a href="https://discord.com/invite/yourdiscordlink"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://www.facebook.com/yourfacebookprofile"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
