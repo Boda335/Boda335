@@ -117,7 +117,8 @@
 
 #
 
-<img style="width:100%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirjaipal&theme=github-dark&show_icons=true&hide_border=true&layout=compact"/>
+<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirjaipal&theme=github-dark&show_icons=true&hide_border=true&layout=compact&bg_color=00000000"/>
+
 
 
 
