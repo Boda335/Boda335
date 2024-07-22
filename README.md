@@ -117,7 +117,8 @@
 
 #
 
-<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirjaipal&theme=merko&show_icons=true&hide_border=true&layout=compact&bg_color=00000000"/>
+<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirjaipal&theme=github-dark-green&show_icons=true&hide_border=true&layout=compact&bg_color=00000000"/>
+
 
 
 
