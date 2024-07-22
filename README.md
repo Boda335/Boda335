@@ -3,8 +3,8 @@
 <h3 align="center">Hey there, I'm <a href="https://bit.ly/kabirjaipal">Kabir Jaipal</a></h3>
 
 <p align="center">
-<a href="https://github.com/kabirjaipal"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/kabirjaipal?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-<a href="https://github.com/kabirjaipal"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+<a href="https://github.com/Boda335"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/kabirjaipal?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+<a href="https://github.com/Boda335"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 </p>
 
 <p align="center">
@@ -15,11 +15,10 @@
 
 ```js
 {
-    name: "Kabir Jaipal",
-    age: 20,
-    location: "India",
+    name: "Abdallah Mohamed",
+    age: 21,
+    location: "Egypt",
     role : "Full Stack Developer",
-    degree : "BCA",
     portfolio : "kabirjaipal.me"
 }
 ```
