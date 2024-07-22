@@ -49,7 +49,7 @@
 
     
   <span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Boda335/discordjs-base-handler">
+    <a href="https://github.com/Boda335/set_activity-status">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=set_activity-status&theme=dark&hide_border=true" alt="Discord.JS Handler">
     </a>
   </span>
