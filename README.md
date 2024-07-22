@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
-<h3 align="center">Hey there, I'm <a href="https://bit.ly/kabirjaipal">Kabir Jaipal</a></h3>
+<h3 align="center">Hey there, I'm <a href="https://bit.ly/Boda335">Kabir Jaipal</a></h3>
 
 <p align="center">
 <a href="https://github.com/Boda335"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Boda335?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
@@ -20,7 +20,7 @@
     age: 21,
     location: "Egypt",
     role : "Full Stack Developer",
-    portfolio : "kabirjaipal.me"
+    portfolio : "Boda335.me"
 }
 ```
 
@@ -47,33 +47,33 @@
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/kabirjaipal/discordjs-base-handler">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=discordjs-base-handler&theme=dark&hide_border=true" alt="Discord.JS Handler">
+    <a href="https://github.com/Boda335/discordjs-base-handler">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=discordjs-base-handler&theme=dark&hide_border=true" alt="Discord.JS Handler">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/kabirjaipal/AI-Summarizer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=AI-Summarizer&theme=dark&hide_border=true" alt="AI-Summarizer">
+    <a href="https://github.com/Boda335/AI-Summarizer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=AI-Summarizer&theme=dark&hide_border=true" alt="AI-Summarizer">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/kabirjaipal/real-giveaway">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=real-giveaways&theme=dark&hide_border=true" alt="real giveaways">
+    <a href="https://github.com/Boda335/real-giveaway">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=real-giveaways&theme=dark&hide_border=true" alt="real giveaways">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/kabirjaipal/Sanatani-Bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=Sanatani-Bot&theme=dark&hide_border=true" alt="Sanatani Bot">
+    <a href="https://github.com/Boda335/Sanatani-Bot">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=Sanatani-Bot&theme=dark&hide_border=true" alt="Sanatani Bot">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/kabirjaipal/Food-For-All">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=Food-For-All&theme=dark&hide_border=true" alt="Food-For-All">
+    <a href="https://github.com/Boda335/Food-For-All">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=Food-For-All&theme=dark&hide_border=true" alt="Food-For-All">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/kabirjaipal/Password-Manager">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=Password-Manager&theme=dark&hide_border=true" alt="Password-Manager">
+    <a href="https://github.com/Boda335/Password-Manager">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=Password-Manager&theme=dark&hide_border=true" alt="Password-Manager">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
@@ -127,13 +127,13 @@
 
 ### Trophies
 
-<a href="https://github.com/kabirjaipal">
+<a href="https://github.com/Boda335">
     <img src="https://github-profile-trophy.vercel.app/?username=Boda335&row=4&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
 </a>
 
 #
 
-<img style="width:100%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirjaipal&theme=github-dark-dimmed&hide_border=true"/>
+<img style="width:100%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Boda335&theme=github-dark-dimmed&hide_border=true"/>
 
 #
 
