@@ -40,49 +40,49 @@
 
 ### 📘 Top Projects
 
-
 <div align="center">
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/Boda335/JUGNU-Dashboard">
-      <img src="https://img.shields.io/github/stars/Boda335/JUGNU-Dashboard?style=for-the-badge&logo=github&color=2b2d34&label=JUGNU-Dashboard" alt="JUGNU-Dashboard">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=JUGNU-Dashboard&theme=dark&hide_border=true" alt="JUGNU-Dashboard">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/kabirjaipal/discordjs-base-handler">
-      <img src="https://img.shields.io/github/stars/kabirjaipal/discordjs-base-handler?style=for-the-badge&logo=github&color=2b2d34&label=Discord.JS%20Handler" alt="Discord.JS Handler">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=discordjs-base-handler&theme=dark&hide_border=true" alt="Discord.JS Handler">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/kabirjaipal/AI-Summarizer">
-      <img src="https://img.shields.io/github/stars/kabirjaipal/AI-Summarizer?style=for-the-badge&logo=github&color=2b2d34&label=AI-Summarizer" alt="AI-Summarizer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=AI-Summarizer&theme=dark&hide_border=true" alt="AI-Summarizer">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/kabirjaipal/real-giveaway">
-      <img src="https://img.shields.io/github/stars/kabirjaipal/real-giveaways?style=for-the-badge&logo=github&color=2b2d34&label=Real%20Giveaways" alt="real giveaways">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=real-giveaways&theme=dark&hide_border=true" alt="real giveaways">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/kabirjaipal/Sanatani-Bot">
-      <img src="https://img.shields.io/github/stars/kabirjaipal/Sanatani-Bot?style=for-the-badge&logo=github&color=2b2d34&label=Sanatani%20Bot" alt="Sanatani Bot">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=Sanatani-Bot&theme=dark&hide_border=true" alt="Sanatani Bot">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/kabirjaipal/Food-For-All">
-      <img src="https://img.shields.io/github/stars/kabirjaipal/Food-For-All?style=for-the-badge&logo=github&color=2b2d34&label=Food%20For%20All" alt="Food-For-All">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=Food-For-All&theme=dark&hide_border=true" alt="Food-For-All">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/kabirjaipal/Password-Manager">
-      <img src="https://img.shields.io/github/stars/kabirjaipal/Password-Manager?style=for-the-badge&logo=github&color=2b2d34&label=Password%20Manager" alt="Password-Manager">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=Password-Manager&theme=dark&hide_border=true" alt="Password-Manager">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/Boda335">
-      <img src="https://img.shields.io/github/followers/Boda335?style=for-the-badge&logo=github&color=2b2d34&label=Follow" alt="Boda335's GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Boda335&show_icons=true&theme=dark&hide_border=true" alt="Boda335's GitHub stats">
     </a>
   </span>
 </div>
+
 
 
 
