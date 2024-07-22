@@ -110,12 +110,12 @@
 
 #
 
-<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=kabirjaipal&theme=chartreuse-dark&custom_title=GitHub+Stats&hide_border=true"/>
+<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=kabirjaipal&theme=shadow_green&custom_title=GitHub+Stats&hide_border=true"/>
 
 
 #
 
-<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirjaipal&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact&bg_color=00000000"/>
+<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirjaipal&theme=shadow_green&show_icons=true&hide_border=true&layout=compact&bg_color=00000000"/>
 
 
 
