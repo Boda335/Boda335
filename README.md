@@ -42,10 +42,12 @@
 
 <div align="center">
   <span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Boda335/JUGNU-Dashboard">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=JUGNU-Dashboard&theme=dark&hide_border=true" alt="JUGNU-Dashboard">
+    <a href="https://github.com/Boda335/Discord-Role-Management-Bot">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=Discord-Role-Management-Bot&theme=dark&hide_border=true" alt="JUGNU-Dashboard">
     </a>
   </span>
+
+    
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/Boda335/discordjs-base-handler">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=discordjs-base-handler&theme=dark&hide_border=true" alt="Discord.JS Handler">
