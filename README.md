@@ -110,10 +110,7 @@
 
 #
 
-<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Boda335&theme=github-dark&custom_title=GitHub+Stats&hide_border=true"/>
-
-
-
+<img style="width:100%; background-color:transparent;" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Boda335&theme=github-dark&custom_title=GitHub+Stats&hide_border=true"/>
 
 
 #
