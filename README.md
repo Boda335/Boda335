@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/Boda335"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Boda335?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-<a href="https://github.com/Boda335"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Boda335&color=236ad3&style=for-the-badge&label=Visitors&logo=github"/></a>
+<a href="https://github.com/Boda335"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Boda335&color=a83238&style=for-the-badge&label=Visitors&logo=github"/></a>
 
 </p>
 
