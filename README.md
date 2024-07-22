@@ -107,7 +107,7 @@
 ### Trophies
 
 <a href="https://github.com/kabirjaipal">
-    <img src="https://github-profile-trophy.vercel.app/?username=kabirjaipal&row=4&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Boda335&row=4&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
 </a>
 
 #
