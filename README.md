@@ -42,40 +42,41 @@
 <div align="center">
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/Boda335/JUGNU-Dashboard">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=JUGNU-Dashboard&hide_border=true&theme=github_dark" alt="JUGNU-Dashboard">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=JUGNU-Dashboard&theme=github_dark&hide_border=true" alt="JUGNU-Dashboard">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/kabirjaipal/discordjs-base-handler">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=discordjs-base-handler&hide_border=true&theme=github_dark" alt="Discord.JS Handler">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=discordjs-base-handler&theme=github_dark&hide_border=true" alt="Discord.JS Handler">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/kabirjaipal/AI-Summarizer">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=AI-Summarizer&hide_border=true&theme=github_dark" alt="AI-Summarizer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=AI-Summarizer&theme=github_dark&hide_border=true" alt="AI-Summarizer">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/kabirjaipal/real-giveaway">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=real-giveaways&hide_border=true&theme=github_dark" alt="real giveaways">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=real-giveaways&theme=github_dark&hide_border=true" alt="real giveaways">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/kabirjaipal/Sanatani-Bot">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=Sanatani-Bot&hide_border=true&theme=github_dark" alt="Sanatani Bot">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=Sanatani-Bot&theme=github_dark&hide_border=true" alt="Sanatani Bot">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/kabirjaipal/Food-For-All">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=Food-For-All&hide_border=true&theme=github_dark" alt="Food-For-All">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=Food-For-All&theme=github_dark&hide_border=true" alt="Food-For-All">
     </a>
   </span>
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/kabirjaipal/Password-Manager">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=Password-Manager&hide_border=true&theme=github_dark" alt="Password-Manager">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirjaipal&repo=Password-Manager&theme=github_dark&hide_border=true" alt="Password-Manager">
     </a>
   </span>
 </div>
+
 
 #
 
