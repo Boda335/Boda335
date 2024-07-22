@@ -110,9 +110,7 @@
 
 #
 
-<div style="width:100%; background: transparent; color: green;">
-  <img style="width:100%;" alt="Stats" src="https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=Boda335&theme=github-dark&custom_title=GitHub+Stats&hide_border=true"/>
-</div>
+<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=kabirjaipal&theme=chartreuse-dark&custom_title=GitHub+Stats&hide_border=true"/>
 
 
 #
