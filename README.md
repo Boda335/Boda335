@@ -105,7 +105,7 @@
 
 #
 
-<img style="width:100%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Boda335&theme=github-dark&hide_border=true"/>
+
 
 
 #
