@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
-<h3 align="center">Hey there, I'm <a href="https://bit.ly/Boda335">Kabir Jaipal</a></h3>
+<h3 align="center">Hey there, I'm <a href="">Abdallah Mohamed</a></h3>
 
 <p align="center">
 <a href="https://github.com/Boda335"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Boda335?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
