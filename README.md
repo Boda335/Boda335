@@ -125,7 +125,7 @@
 #
 
 <a href="https://github.com/Boda335">
-    <img src="https://github-profile-trophy.vercel.app/?username=Boda335&row=4&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Boda335&row=4&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
 </a>
 
 
