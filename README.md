@@ -36,7 +36,23 @@
 
 </div>
 
-#
+### 🎯 Goals
+
+<p align="center">
+  <ul>
+    <li>Improve my skills in <strong>machine learning</strong>.</li>
+    <li>Contribute to <strong>open-source projects</strong>.</li>
+    <li>Learn more about <strong>cloud technologies</strong>.</li>
+  </ul>
+</p>
+
+### 🗂️ My Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+  <img src="https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
 
 ### 📘 Top Projects
 
@@ -103,22 +119,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Boda335&row=4&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
 </a>
 
-### 🎯 Goals
 
-<p align="center">
-  <ul>
-    <li>Improve my skills in <strong>machine learning</strong>.</li>
-    <li>Contribute to <strong>open-source projects</strong>.</li>
-    <li>Learn more about <strong>cloud technologies</strong>.</li>
-  </ul>
-</p>
-
-### 🗂️ My Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tools-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
-  <img src="https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
 
 #
 
