@@ -119,6 +119,27 @@
 
 
 
+### 🚀 Recent Updates
+
+<p align="center">
+  <a href="https://github.com/Boda335/SomeProject">
+    <img src="https://img.shields.io/badge/Latest_Project-SomeProject-green?style=for-the-badge&logo=github&logoColor=white" alt="Latest Project">
+  </a>
+</p>
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Top_Contributor-2024-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Top Contributor">
+</p>
+
+### 📚 Contributions
+
+<p align="center">
+  <a href="https://github.com/Boda335?tab=contributions">
+    <img src="https://img.shields.io/badge/Contributions-Open_Projects-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Contributions">
+  </a>
+</p>
 
 
 
