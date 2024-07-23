@@ -129,31 +129,11 @@
   </ul>
 </p>
 
-### 🧩 Fun Facts
-
-<p align="center">
-  <ul>
-    <li>I love <strong>coding</strong> and <strong>playing video games</strong>.</li>
-    <li>My favorite programming language is <strong>Python</strong>.</li>
-    <li>I enjoy <strong>solving puzzles</strong> and <strong>learning new things</strong>.</li>
-  </ul>
-</p>
-
-### 🏅 Certifications
-
-<p align="center">
-  <a href="https://example.com/certificate1">
-    <img src="https://img.shields.io/badge/Certified-Example_1-brightgreen?style=for-the-badge&logo=certification&logoColor=white" alt="Certification 1">
-  </a>
-  <a href="https://example.com/certificate2">
-    <img src="https://img.shields.io/badge/Certified-Example_2-blue?style=for-the-badge&logo=certification&logoColor=white" alt="Certification 2">
-  </a>
-</p>
 
 ### 📊 Personal Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boda335&count_private=true&include_all_commits=true&theme=blue-green" alt="Personal Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Boda335&show_icons=true&hide_border=true&title_color=blue&icon_color=blue&text_color=ffffff&bg_color=000000" alt="GitHub Stats">
 </p>
 
 ### 🗂️ My Tools
