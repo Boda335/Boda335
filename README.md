@@ -103,22 +103,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Boda335&row=4&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
 </a>
 
-#
-
-<img style="width:100%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Boda335&theme=blue-green&hide_border=true"/>
-
-
-#
-
-<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Boda335&theme=blue-green&custom_title=GitHub+Stats&hide_border=true"/>
-
-
-#
-
-<img style="width:90%" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boda335&theme=blue-green&show_icons=true&hide_border=true&layout=compact&bg_color=00000000"/>
-
-
-
 ### 🎯 Goals
 
 <p align="center">
@@ -129,13 +113,6 @@
   </ul>
 </p>
 
-
-### 📊 Personal Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boda335&show_icons=true&hide_border=true&title_color=blue&icon_color=blue&text_color=ffffff&bg_color=000000" alt="GitHub Stats">
-</p>
-
 ### 🗂️ My Tools
 
 <p align="center">
@@ -143,8 +120,16 @@
   <img src="https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
+#
+
+<img style="width:100%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Boda335&theme=blue-green&hide_border=true"/>
 
 
+#
+
+<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Boda335&theme=blue-green&custom_title=GitHub+Stats&show_icons=true&hide_border=true"/>
 
 
+#
 
+<img style="width:90%" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boda335&theme=blue-green&show_icons=true&hide_border=true&layout=compact&bg_color=00000000"/>
