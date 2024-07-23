@@ -43,14 +43,14 @@
 <div align="center">
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/Boda335/Discord-Role-Management-Bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=Discord-Role-Management-Bot&theme=darcula&hide_border=true" alt="JUGNU-Dashboard">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=Discord-Role-Management-Bot&theme=dark&hide_border=true" alt="JUGNU-Dashboard">
     </a>
   </span>
 
     
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/Boda335/set_activity-status">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=set_activity-status&theme=darcula&hide_border=true" alt="Discord.JS Handler">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=set_activity-status&theme=dark&hide_border=true" alt="Discord.JS Handler">
     </a>
   </span>
 </div>
@@ -106,17 +106,17 @@
 
 #
 
-<img style="width:100%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Boda335&theme=darcula&hide_border=true"/>
+<img style="width:100%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Boda335&theme=dark&hide_border=true"/>
 
 
 #
 
-<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Boda335&theme=darcula&custom_title=GitHub+Stats&hide_border=true"/>
+<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Boda335&theme=dark&custom_title=GitHub+Stats&hide_border=true"/>
 
 
 #
 
-<img style="width:90%" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boda335&theme=darcula&show_icons=true&hide_border=true&layout=compact&bg_color=00000000"/>
+<img style="width:90%" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boda335&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=00000000"/>
 
 
 
