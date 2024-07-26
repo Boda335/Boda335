@@ -20,7 +20,6 @@
     age: 21,
     location: "Egypt",
     role : "Full Stack Developer",
-    portfolio : "Boda335.me"
 }
 ```
 
