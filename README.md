@@ -69,6 +69,13 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=set_activity-status&theme=blue-green&hide_border=true" alt="Discord.JS Handler">
     </a>
   </span>
+
+<span style="display: inline-block; margin: 10px;">
+    <a href="https://github.com/Boda335/Free-Palestine-Bot">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=Free-Palestine-Bot&theme=blue-green&hide_border=true" alt="Discord.JS Handler">
+    </a>
+  </span>
+  
 </div>
 
 #
