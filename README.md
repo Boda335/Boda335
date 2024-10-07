@@ -33,7 +33,7 @@ Hey there, I'm Boda, a 21 year old software developer from the Egypt. I love mak
 
 <div align="center">
 
-[![My Languages](https://skillicons.dev/icons?i=js,ts,nodejs,cs,php,powershell,maven,linux,ubuntu,git,github,npm,markdown)]()
+[![My Languages](https://skillicons.dev/icons?i=js,nodejs,cs,php,git,github,npm)]()
 
 </div>
 <!--
@@ -57,7 +57,7 @@ Hey there, I'm Boda, a 21 year old software developer from the Egypt. I love mak
 
 <div align="center">
 
-[![My Languages](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,next,react,express,mysql,sqlite,sequelize,mongo,prisma)]()
+[![My Languages](https://skillicons.dev/icons?i=html,css)]()
 
 </div>
 
@@ -72,7 +72,7 @@ Hey there, I'm Boda, a 21 year old software developer from the Egypt. I love mak
 
 <div align="center">
 
-[![My Languages](https://skillicons.dev/icons?i=visualstudio,vscode,postman,stackoverflow,codepen,replit,photoshop,premiere,discord,discordbots)]()
+[![My Languages](https://skillicons.dev/icons?i=visualstudio,vscode,replit,photoshop,premiere,discord,discordbots)]()
 
 </div>
 
@@ -115,6 +115,12 @@ Hey there, I'm Boda, a 21 year old software developer from the Egypt. I love mak
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=Discord-Role-Management-Bot&theme=blue-green&hide_border=true" alt="JUGNU-Dashboard">
     </a>
   </span>
+   
+  <span style="display: inline-block; margin: 10px;">
+    <a href="https://github.com/Boda335/Azkar-Bot">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&show_icons=true&repo=Azkar-Bot&theme=blue-green&hide_border=true" alt="Discord.JS Handler">
+    </a>
+  </span>
 
 <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/Boda335/Free-Palestine-Bot">
@@ -139,11 +145,6 @@ Hey there, I'm Boda, a 21 year old software developer from the Egypt. I love mak
     </a>
   </span>
 
-<span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Boda335/Backup-Creator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&show_icons=true&repo=Backup-Creator&theme=blue-green&hide_border=true" alt="Discord.JS Handler">
-    </a>
-  </span>
 </div>
 
 
