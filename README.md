@@ -173,8 +173,8 @@ Hey there, I'm Boda, a 21 year old software developer from the Egypt. I love mak
   <a href="<https://discord.com/users/1139143053387509840>">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-Boda3350-blue?style=flat-square&logo=discord">
   </a>
-  <a href="https://discord.gg/evokers">
-    <img alt="Discord Server" src="https://img.shields.io/badge/THE%20EVOKERS-Click%20Here-blue?style=flat-square&logo=discord">
+  <a href="https://discord.gg/UaK7U5wDFd">
+    <img alt="Discord Server" src="https://img.shields.io/badge/Support-Epic%20Nexus-dark_red?logo=Discord&logoColor=fff&labelColor=000000&color=%237f05e3">
   </a>
 </p>
 
