@@ -102,7 +102,7 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
 ### 📊 GitHub Stats:
 <br>
 
-<img style="width:50%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Boda335&theme=blue-green&custom_title=GitHub+Stats&hide_border=true"/>
+![boda335's Stats](https://github-readme-stats.vercel.app/api?username=boda335&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 </br>
 
