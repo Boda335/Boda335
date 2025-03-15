@@ -8,7 +8,7 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
 <div align="center">
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1139143053387509840?bg=&borderRadius=30px&ignoreAppId=1139143053387509840&idleMessage=&theme=dark&animated=false&showDisplayName=false)](https://discord.com/users/1139143053387509840)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1139143053387509840bg=&borderRadius=30px&ignoreAppId=1139143053387509840&idleMessage=&theme=dark&animated=false&showDisplayName=false)](https://discord.com/users/1139143053387509840)
 <p>
    <a href="https://discord.com/channels/@me/1139143053387509840"> <img src="https://discord.c99.nl/widget/theme-2/1139143053387509840.png" alt="contact mee"></a>
 <p>
