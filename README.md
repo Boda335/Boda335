@@ -114,7 +114,7 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Boda335&theme=dark&show)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Boda335&theme=dark&show&utcOffset=8)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Boda335&theme=dark&show)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=boda335&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 
 <br> 
