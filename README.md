@@ -107,9 +107,8 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
 </br>
 
 ### 👨‍💻 Top Languages Used:
-![boda335's Streak](https://github-readme-streak-stats.herokuapp.com/?user=boda335&theme=dark&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=boda335&theme=dark&hide_border=false)
-![boda335's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boda335&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
+![boda335's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boda335&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
 <br> 
