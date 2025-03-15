@@ -2,7 +2,7 @@
 
 Hey there, I'm Boda, a 21 year old software developer from the Egypt. I love making Discord bots with JavaScript, whilst sometimes bit of web development.
 
-### ![Boda](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F411&width=435&lines=Hi+there+I'm+Abdallah+Mohamed+%F0%9F%91%8B)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi+there+i'm+Abdullah+mohamed+%F0%9F%91%8B)](https://git.io/typing-svg)
 <!-- <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px"> -->
 
 ---
