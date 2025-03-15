@@ -125,11 +125,6 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
     <img alt="Discord Server" src="https://img.shields.io/badge/Support-Nexus%20Studio-dark_red?logo=Discord&logoColor=fff&labelColor=000000&color=%23420804">
   </a>
 </p>
-
-
-
-<br>
-  <a href=#><img width="100%"  src="Status.svg"></a>
 ---
 
 *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
