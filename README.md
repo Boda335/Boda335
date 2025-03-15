@@ -107,13 +107,8 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
 </br>
 
 ### 👨‍💻 Top Languages Used:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Boda335&size_weight=0.5&count_weight=0.5) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Boda335&theme=city_lights)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Boda335&theme=city_lights)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Boda335&theme=city_lights)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Boda335&theme=city_lights)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Boda335&theme=city_lights&utcOffset=8)
+![boda335's Streak](https://github-readme-streak-stats.herokuapp.com/?user=boda335&theme=dark&hide_border=false)
+![boda335's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boda335&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 
 <br> 
