@@ -60,7 +60,6 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
 
 ##  Top Projects 
 
-<div align="center">
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/Boda335/Discord-Role-Management-Bot">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=Discord-Role-Management-Bot&theme=dark&show&hide_border=true" alt="JUGNU-Dashboard">
@@ -96,8 +95,6 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
     </a>
   </span>
 
-</div>
-
 
 ### 📊 GitHub Stats:
 <br>
@@ -114,8 +111,7 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Boda335&theme=dark&show)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Boda335&theme=dark&show&utcOffset=8)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Boda335&theme=dark&show)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=boda335&theme=dark&show_icons=true&hide_border=false&layout=compact)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boda335&theme=dark)
 
 <br> 
 <hr>
