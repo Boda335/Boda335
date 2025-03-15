@@ -16,13 +16,13 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
 </div>
 <br />
 
-- I am a  Full-Stack web developer from Egypt.
-- I specialize in Node.js and have a passion for building websites, particularly e-commerce platforms.
-- I have experience creating various types of websites and I'm confident in my ability to tackle any web development project.
-- Additionally, I'm interested in creating Discord bots full build and working within the Discord ecosystem , Tickets.
+- I am a Discord bot developer from Egypt, specializing in building integrated systems within the Discord ecosystem.  
+- I have extensive experience with **Node.js** and love creating powerful bots for server management, tickets, and automation.  
+- I have built various bots with different features and enjoy the challenge of developing custom solutions to meet user needs.  
+- Additionally, I have knowledge of web development, which helps me integrate bots with dashboards and external systems.
 <br />
 
-- [![GitHub followers](https://img.shields.io/github/followers/Boda335.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Boda335?tab=followers)
+- ![GitHub followers](https://img.shields.io/github/followers/boda335?style=plastic&logo=github&labelColor=%23121212&color=%23970000FF)
 
 ---
 
@@ -32,7 +32,7 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
 
 <div align="center">
 
-[![My Languages](https://skillicons.dev/icons?i=js,nodejs,cs,php,git,github,npm)]()
+[![My Languages](https://skillicons.dev/icons?i=js,nodejs,git,github,npm,py)]()
 
 </div>
 <!--
