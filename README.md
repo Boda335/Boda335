@@ -63,36 +63,36 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
 <div align="center">
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/Boda335/Discord-Role-Management-Bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=Discord-Role-Management-Bot&theme=blue-green&hide_border=true" alt="JUGNU-Dashboard">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=Discord-Role-Management-Bot&theme=dark&show&hide_border=true" alt="JUGNU-Dashboard">
     </a>
   </span>
    
   <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/Boda335/Azkar-Bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&show_icons=true&repo=Azkar-Bot&theme=blue-green&hide_border=true" alt="Discord.JS Handler">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&show_icons=true&repo=Azkar-Bot&theme=dark&show&hide_border=true" alt="Discord.JS Handler">
     </a>
   </span>
 
 <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/Boda335/Free-Palestine-Bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=Free-Palestine-Bot&theme=blue-green&hide_border=true" alt="Discord.JS Handler">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=Free-Palestine-Bot&theme=dark&show&hide_border=true" alt="Discord.JS Handler">
     </a>
   </span>
 <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/Boda335/set_activity-status">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=set_activity-status&hide_border=true" alt="Discord.JS Handler">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=set_activity-status&theme=dark&show&hide_border=true" alt="Discord.JS Handler">
     </a>
   </span>
 
 <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/Boda335/Verification-Bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&show_icons=true&repo=Verification-Bot&theme=blue-green&hide_border=true" alt="Discord.JS Handler">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&show_icons=true&repo=Verification-Bot&theme=dark&show&hide_border=true" alt="Discord.JS Handler">
     </a>
   </span>
 
 <span style="display: inline-block; margin: 10px;">
     <a href="https://github.com/Boda335/Welcome-Bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&show_icons=true&repo=Welcome-Bot&theme=blue-green&hide_border=true" alt="Discord.JS Handler">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&show_icons=true&repo=Welcome-Bot&theme=dark&show&hide_border=true" alt="Discord.JS Handler">
     </a>
   </span>
 
