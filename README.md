@@ -122,7 +122,7 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
     <img alt="Discord" src="https://img.shields.io/badge/Discord-Boda3350-blue?style=flat-square&logo=discord">
   </a>
   <a href="https://discord.gg/rMr5YdvYvP">
-    <img alt="Discord Server" src="https://img.shields.io/badge/Support-Nexus%20Studio-dark_red?logo=Discord&logoColor=fff&labelColor=000000&color=%420804">
+    <img alt="Discord Server" src="https://img.shields.io/badge/Support-Nexus%20Studio-dark_red?logo=Discord&logoColor=fff&labelColor=000000&color=%23420804">
   </a>
 </p>
 
