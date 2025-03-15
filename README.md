@@ -51,7 +51,7 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
 -->
 <br />
 
-<!--
+
 ### 🧰 Frameworks and Database 
 
 <div align="center">
@@ -60,12 +60,12 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
 
 </div>
 
-<!--
+
   <p>
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
       <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
   </p>
-  -->
+
 
 ### 💻 Programs Skills 
 
