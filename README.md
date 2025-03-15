@@ -130,15 +130,6 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
 
 <br>
   <a href=#><img width="100%"  src="Status.svg"></a>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/Boda335/count.svg" />  
-</p>
-   
 ---
 
 *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
