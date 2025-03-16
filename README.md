@@ -19,7 +19,6 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
 - I am a Discord bot developer from Egypt, specializing in building integrated systems within the Discord ecosystem.  
 - I have extensive experience with **Node.js** and love creating powerful bots for server management, tickets, and automation.  
 - I have built various bots with different features and enjoy the challenge of developing custom solutions to meet user needs.  
-- Additionally, I have knowledge of web development, which helps me integrate bots with dashboards and external systems.
 <br />
 
 - ![GitHub followers](https://img.shields.io/github/followers/boda335?style=plastic&logo=github&labelColor=%23121212&color=%23970000FF)
