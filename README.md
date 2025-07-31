@@ -46,84 +46,45 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
 </div>
 <br />
 
-<!-- Profile Trophy -->
-### 🏆 GitHub Profile Trophy: 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Boda335&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
 
-<!--   Stats -->
+## 📈 GitHub Statistics
 
+<div align="center">
 
-<!-- <img style="width: 50%;" src="https://wakatime.com/share/@farghaly/87518129-a925-43e8-a72a-ff2e911ef978.png" alt="FARGHALY"> -->
+### Activity & Streak
 
-##  Top Projects 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boda335&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph">
 
-  <span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Boda335/Discord-Role-Management-Bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=Discord-Role-Management-Bot&theme=dark&show&hide_border=true" alt="JUGNU-Dashboard">
-    </a>
-  </span>
-   
-  <span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Boda335/Azkar-Bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&show_icons=true&repo=Azkar-Bot&theme=dark&show&hide_border=true" alt="Discord.JS Handler">
-    </a>
-  </span>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boda335&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true&card_width=495" width="49%" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boda335&theme=tokyonight&hide_border=true" width="49%" alt="Streak"/>
+</p>
 
-<span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Boda335/Free-Palestine-Bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=Free-Palestine-Bot&theme=dark&show&hide_border=true" alt="Discord.JS Handler">
-    </a>
-  </span>
-<span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Boda335/set_activity-status">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&repo=set_activity-status&theme=dark&show&hide_border=true" alt="Discord.JS Handler">
-    </a>
-  </span>
-
-<span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Boda335/Verification-Bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&show_icons=true&repo=Verification-Bot&theme=dark&show&hide_border=true" alt="Discord.JS Handler">
-    </a>
-  </span>
-
-<span style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Boda335/Welcome-Bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boda335&show_icons=true&repo=Welcome-Bot&theme=dark&show&hide_border=true" alt="Discord.JS Handler">
-    </a>
-  </span>
+### Languages & Productivity
 
 
-### 📊 GitHub Stats:
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boda335&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=375" style="width: 45%;" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=boda335&theme=tokyonight&utcOffset=8" style="width: 45%;" alt="Productivity"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=boda335&theme=tokyonight" style="width: 45%;" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boda335&theme=tokyonight" style="width: 45%;" alt="Most Commit Language"/>
+</div>
+</p>
+
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=boda335&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=boda335&theme=dracula&margin-w=10&margin-h=10&no-frame=true" style="max-width: 90%; height: auto;" alt="GitHub Trophies"/>
+</div>
 <br>
 
-![boda335's Stats](https://github-readme-stats.vercel.app/api?username=boda335&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
-</br>
+[![My Discord User](https://my-badge.vercel.app/api?id=1139143053387509840)](https://discord.com/users/1139143053387509840)
 
-### 👨‍💻 Top Languages Used:
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Boda335&size_weight=0.5&count_weight=0.5) -->
+[![My Discord Server](https://discord.com/api/guilds/1006273962986188881/widget.png?style=banner2)](https://discord.gg/rMr5YdvYvP)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Boda335&theme=dark&show)
-<!--![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Boda335&theme=dark&show)-->
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Boda335&theme=dark&show)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Boda335&theme=dark&show&utcOffset=8)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Boda335&theme=dark&show)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boda335&theme=dark)
 
-<br> 
-<hr>
- 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<p align="center">
-  <a href="<https://discord.com/users/1139143053387509840>">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-Boda3350-blue?style=flat-square&logo=discord">
-  </a>
-  <a href="https://discord.gg/rMr5YdvYvP">
-    <img alt="Discord Server" src="https://img.shields.io/badge/Support-Nexus%20Studio-dark_red?logo=Discord&logoColor=fff&labelColor=000000&color=%23420804">
-  </a>
-</p>
----
+![Snake animation](https://github.com/boda335/boda335/blob/main/dist/github-contribution-grid-snake-dark.svg)
 
-*If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
+</div>
