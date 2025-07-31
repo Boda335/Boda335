@@ -57,7 +57,7 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boda335&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true&card_width=495" width="49%" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boda335&theme=tokyonight&hide_border=true" width="49%" alt="Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=boda335&theme=tokyonight&hide_border=true" width="49%" alt="Streak"/>
 </p>
 
 ### Languages & Productivity
