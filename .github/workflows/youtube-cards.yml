@@ -19,6 +19,6 @@ jobs:
       - name: Update YouTube Cards in README
         uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: UC4tDD860G7eD9p8pY5zQ1SA
+          channel_id: UCnO5GcASKuoO53sLK_TV4fA
           readme_path: README.md
           comment_tag_name: YOUTUBE-CARDS
