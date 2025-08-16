@@ -62,14 +62,6 @@ Hey there, I'm Boda, a 22 year old software developer from Egypt. I love making 
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=boda335&theme=tokyonight&hide_border=true" width="49%" alt="Streak"/>
 </p>
 
-
-## 🎬 Latest YouTube Videos  
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![الرجعة](https://ytcards.demolab.com/?id=sgTVqHG638M&title=%D8%A7%D9%84%D8%B1%D8%AC%D8%B9%D8%A9&lang=en&timestamp=1751106606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "الرجعة")](https://www.youtube.com/watch?v=sgTVqHG638M)
-<!-- END YOUTUBE-CARDS -->
-
-
 ### 📊 Languages & Productivity
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
