@@ -61,14 +61,10 @@ Hey there, I'm Boda, a 22 year old software developer from the Egypt. I love mak
 </p>
 
 
----
-
-## 🎬 Latest YouTube Videos  
-
+## 🎬 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
 
----
 
 
 ### Languages & Productivity
