@@ -2,17 +2,19 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Checkout the repository
+      # Checkout using PAT
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
 
-      # Generate the snake contribution graph
+      # Generate the snake graph
       - uses: Platane/snk@v3
         id: snake
         with:
@@ -20,11 +22,11 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Commit and push changes to main
+      # Commit and push using PAT
       - name: Commit and Push Changes
         uses: EndBug/add-and-commit@v9
         with:
-          github_token: ${{ secrets.PAT_TOKEN }} # Use your Personal Access Token here
+          github_token: ${{ secrets.PAT_TOKEN }}
           branch: main
           add: "dist"
           message: "Generate Snake Animation"
