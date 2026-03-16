@@ -9,18 +9,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Checkout the repository
       - uses: actions/checkout@v3
-      
+
+      # Generate the snake contribution graph
       - uses: Platane/snk@v3
-        id: snake-gif
+        id: snake
         with:
           github_user_name: EXA-Hub
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: Push to GitHub
+
+      # Commit and push changes to main
+      - name: Commit and Push Changes
         uses: EndBug/add-and-commit@v9
         with:
-          branch: output
-          message: 'Generate Snake Animation'
+          github_token: ${{ secrets.PAT_TOKEN }} # Use your Personal Access Token here
+          branch: main
           add: "dist"
+          message: "Generate Snake Animation"
+          push: true
