@@ -15,17 +15,18 @@
 <h3 align="center">I have extensive experience with Node.js and love creating powerful bots for server management, tickets, and automation. </h3>
 <h3 align="center">I have built various bots with different features and enjoy the challenge of developing custom solutions to meet user needs.
 </h3>
-<!--<h4 align="center">I'd be delighted to help you with<br><br>Resume reviews✨<br>System design🧭🌐<br>Technical writing💡📝<br>LinkedIn profile optimization💯<br>DevOps and cloud engineering☁️🚀<br>Answering questions on Stackoverflow & Quora🤔🤝</h4>-->
+
+<!-- <h4 align="center">I'd be delighted to help you with<br><br>Resume reviews✨<br>System design🧭🌐<br>Technical writing💡📝<br>LinkedIn profile optimization💯<br>DevOps and cloud engineering☁️🚀<br>Answering questions on Stackoverflow & Quora🤔🤝</h4> -->
 <!-- Cover Image 
 <p align="center">
 <img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </p>
+-->
 
 
 
 
 <br />
--->
 
 ### 🧰 Languages and Tools
 
@@ -61,7 +62,8 @@
 
 ### Activity & Streak
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boda335&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph-kohl-eight.vercel.app/graph?username=boda335&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boda335&theme=city_lights" width="100%"/>
   
 <p align="center">
@@ -83,7 +85,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=boda335&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=boda335&theme=dracula&margin-w=10&margin-h=10&no-frame=true" style="max-width: 90%; height: auto;" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-dun-kappa-87.vercel.app/?username=boda335&theme=dracula&margin-w=10&margin-h=10&no-frame=true" style="max-width: 90%; height: auto;" alt="GitHub Trophies"/>
 </div>
 <br>
 
